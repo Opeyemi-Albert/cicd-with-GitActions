@@ -25,5 +25,4 @@ public class SpringWithCicdApplication {
         TimeZone.setDefault(TimeZone.getTimeZone("Africa/Lagos"));
         System.out.println(LocalDateTime.now());
     }
-
 }
